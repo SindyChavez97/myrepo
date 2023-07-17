@@ -1,2 +1,2 @@
-# myrepo
-Repository for testing my Git/GitHub setup
+# FirstYearExam
+Repository for my First Year Exam Figure
